@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+
+@media (min-width: 768px) {
+    .AB{
+        display: flex;
+        justify-content: space-around;
+    }
+    .CDF{
+        display: flex;
+        background-color: rgb(65, 192, 86);
+        justify-content: space-around;
+    }
+
+        .G{
+        background-color: rgb(192, 143, 65);
+        justify-content: space-between;
+    }
+}
+
+
+@media(min-width: 1024px) {
+    .AB {
+        display:flex;
+        background-color: rgb(0, 255, 174);
+        justify-content: space-around;
+    }
+   
+		 
+    .CDF {
+        background-color: rgb(51, 0, 255);
+        justify-content: space-around;
+    }
+	 
+    .G {
+        background-color: rgb(60, 255, 0);
+        justify-content: space-around;
+    }
+   
+}
