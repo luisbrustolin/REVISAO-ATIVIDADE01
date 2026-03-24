@@ -4,10 +4,7 @@ h1 {
 
 
 @media (min-width: 768px) {
-    .AB{
-        display: flex;
-        justify-content: space-around;
-    }
+    
     .CDF{
         display: flex;
         background-color: rgb(65, 192, 86);
